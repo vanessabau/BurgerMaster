@@ -1,2 +1,0 @@
-# BurgerMaster
-Hamburger logger application
