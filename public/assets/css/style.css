@@ -1,3 +1,11 @@
+body{
+  background-color: burlywood;
+}
+.col{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
 li {
   padding: 5px;
   margin: 5px;
@@ -16,4 +24,7 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+#hide{
+  display: none;
 }
