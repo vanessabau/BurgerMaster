@@ -12,6 +12,7 @@ var burger = {
   create: function(cols, vals, cb) {
     orm.create("burgers", cols, vals, function(res) {
       cb(res);
+      console.log("burger.js Line 15"+res);
     });
   },
   update: function(objColVals, condition, cb) {
