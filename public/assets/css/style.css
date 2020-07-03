@@ -1,13 +1,36 @@
 body{
   background-color: burlywood;
+  font-family: 'Arial Narrow Bold', sans-serif;
+}
+#center{
+  text-align: center;
 }
 .col{
   width: 80%;
   margin-left: auto;
   margin-right: auto;
 }
+
+img{
+  width: 100px;
+  height: 100px;
+}
+h4{
+  margin-left: 50px;
+}
+h6{
+  text-transform: uppercase;
+  font-weight: bold;
+}
+ul{
+  list-style-type: none;
+  background: #faebd7;
+  margin-left: 25px;
+  margin-right: 25px;
+}
 li {
   padding: 5px;
+  padding-top:15px;
   margin: 5px;
   background: #faebd7;
 }
