@@ -16,11 +16,13 @@ h1{
 h1, h2{
   font-weight: bold;
 }
-
-img{
+#burger{
+	background-image: url("/public/assets/hamburger-icon.jpg");
+}
+/* img{
   width: 100px;
   height: 100px;
-}
+} */
 h4{
   margin-left: 50px;
   font-weight: bold;
